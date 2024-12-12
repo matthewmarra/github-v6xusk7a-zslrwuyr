@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <!-- Base owl shape -->
+  <circle cx="120" cy="120" r="100" fill="#edeff4"/>
+  <!-- Glasses -->
+  <circle cx="85" cy="110" r="25" fill="none" stroke="#343537" stroke-width="6"/>
+  <circle cx="155" cy="110" r="25" fill="none" stroke="#343537" stroke-width="6"/>
+  <!-- Eyes -->
+  <circle cx="85" cy="110" r="8" fill="#e1242a"/>
+  <circle cx="155" cy="110" r="8" fill="#e1242a"/>
+  <!-- Beak -->
+  <path d="M110 140 L120 150 L130 140" stroke="#343537" stroke-width="6" fill="none"/>
+  <!-- Graduation cap -->
+  <rect x="70" y="40" width="100" height="20" fill="#343537"/>
+  <path d="M70 40 L120 20 L170 40" fill="#343537"/>
+  <rect x="110" y="40" width="20" height="30" fill="#343537"/>
+  <!-- Tassel -->
+  <path d="M130 40 Q140 50 150 40" stroke="#e1242a" stroke-width="4" fill="none"/>
+</svg>
